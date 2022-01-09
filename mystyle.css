@@ -1,0 +1,74 @@
+body {
+  }
+
+
+.blue{
+background-color: #110A60;
+}
+.lightgreen{  
+color: #648880;  /* #60837d;*/
+}
+
+.lightwhite{
+	color:#d1d5d9;
+}
+.Cpalettes{
+	color: #aab2b9;
+}
+img {
+border-radius: 5px;
+}
+
+.menu{
+  font-size: 200%;
+  font-weight:100;
+}
+.LOREM{
+	font-size: 14px;
+}
+.px13{
+	font-size: 13px;
+}
+.fontweight1{
+font-weight:200;
+}
+
+.fontsize {
+  font-size: 27px;
+}
+/*.fontsize1 {
+  font-size: 18px;*/
+}
+ .px16{
+	font-size: 16px;
+}
+.responsive{
+  width: 100%;
+  height: auto;
+}
+
+.fontweight{
+  font-weight:100;
+}
+
+.fontweight1{
+	font-weight:400;
+	font-size: 20px;
+
+}
+
+.px15{
+	font-size: 15px;
+}
+
+.indent{
+text-indent: 7%;
+
+}
+.indent1{
+text-indent: -5%;
+}
+
+.letterspace{
+  letter-spacing: 4px;
+}
